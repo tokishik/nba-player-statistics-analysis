@@ -1,2 +1,2 @@
 # nba-player-statistics-analysis
-Python analysis of NBA player statistics to identify performance trends and relationships between key metrics. 
+Data analysis of NBA player statistics using Python (Pandas, Matplotlib, Seaborn) to explore performance trends and player efficiency.
