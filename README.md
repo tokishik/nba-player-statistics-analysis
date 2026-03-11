@@ -1,2 +1,2 @@
-# nba-player-statistics-analysis
-Data analysis of NBA player statistics using Python (Pandas, Matplotlib, Seaborn) to explore performance trends and player efficiency.
+# nba-hidden-value-analysis
+Python data analysis case study identifying underutilized NBA players using per-minute efficiency metrics and a custom Hidden Value Score.
